@@ -1,0 +1,1 @@
+document.getElementById("comprobacion").innerHTML = "Hola mundo";
